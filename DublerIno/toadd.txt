@@ -1,0 +1,1 @@
+TODO tailscale, nomachine, keyboard=OpenRazer+polychromatic, wakeonlan procces
